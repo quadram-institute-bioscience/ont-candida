@@ -2,10 +2,10 @@
 Candida parapsilosis assemblies with ONT long reads
 
 
-## _C. albicans_ NCYC 4289 (or Y9)
+## _C. parapsilosis_ NCYC 4289 (or Y9)
 
 Here, using a combination of short- and long-read sequencing, 
-we provide the draft genome of C. parapsilosis NCYC 4289, 
+we provide the draft genome of _C. parapsilosis_ NCYC 4289, 
 a faecal-derived isolate from a young male infant born prematurely in the UK.
 
 ```
